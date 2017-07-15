@@ -20,6 +20,7 @@ resource.*
 +   [Original Unverpackt](http://original-unverpackt.de) *[Berlin, Germany]*
 +   [Eco Brotbox](https://www.ecobrotbox.de) *[Berlin, Germany]*
 +   [Kumpel & Keule}](https://www.kumpelundkeule.de) *[Berlin, Germany]*
++   [Bäckerei Erbel](https://arnderbel.de) *[Dachsbach, Germany]*
 
 
 ### Furniture
