@@ -10,24 +10,24 @@ resource.*
 
 ### Clothing
 
-+   [Manomama](https://www.manomama.de/) *[Augsburg, Germany]*
-+   [Armedangels](https://www.armedangels.de/) *[Colone, Germany]*
-+   [Bleed Clothing](https://www.bleed-clothing.com/) *[Helmbrechts, Germany]*
-+   [Avesu](https://www.avesu.eu/) *[Berlin, Germany]*
++   [Manomama](https://www.manomama.de) *[Augsburg, Germany]*
++   [Armedangels](https://www.armedangels.de) *[Colone, Germany]*
++   [Bleed Clothing](https://www.bleed-clothing.com) *[Helmbrechts, Germany]*
++   [Avesu](https://www.avesu.eu) *[Berlin, Germany]*
 +   [Loveco](https://loveco-shop.de) *[Berlin, Germany]*
 +   [Zündstoff](https://www.zuendstoff-clothing.de) *[Freiburg, Germany]*
 +   [Avocado Store](https://www.avocadostore.de) *[Hamburg, Germany]*
-+   [Mr & Mrs Green](https://www.mr-mrs-green.com/) *[Hamburg, Germany]*
++   [Mr & Mrs Green](https://www.mr-mrs-green.com) *[Hamburg, Germany]*
 +   [Glore](https://www.glore.de) *[Nürnberg, Germany]*
 
 
 ### Outdoorwear and equipment
 
-+   [Klettermusen](https://www.klattermusen.com/) *[Åre, Sweden]*
++   [Klettermusen](https://www.klattermusen.com) *[Åre, Sweden]*
 +   [Vaude](https://www.vaude.com) *[Tettnang, Germany]*
 +   [Patagonia](https://patagonia.com) *[Ventura, California, USA]*
 +   [Triple2](http://www.triple2.de) *[Munich, Germany]*
-+   [Pinqponq](http://www.pinqponq.com/) *[Cologne, Germany]*
++   [Pinqponq](https://www.pinqponq.com) *[Cologne, Germany]*
 
 
 ### Groceries
