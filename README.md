@@ -1,11 +1,13 @@
 Awesome Sustainability
 ======================
 
-A list of resources to embrace ecological, sustainable and ethical consumption
+A list of resources to embrace ecological, sustainable and ethical consumption.
 
 
-*NOTE: Please check local availability or shipping constraints when engaging with a linked
-resource.*
+*NOTE: Please check local availability or shipping constraints when engaging with a linked resource. 
+Purchasing from a local dealer might not only fill up a fridge within your neighbourhood, but has 
+also a significant smaller footprint compared to the shipment of an individual delivery.*
+
 
 
 ### Clothing
@@ -19,6 +21,7 @@ resource.*
 +   [Avocado Store](https://www.avocadostore.de) *[Hamburg, Germany]*
 +   [Mr & Mrs Green](https://www.mr-mrs-green.com) *[Hamburg, Germany]*
 +   [Glore](https://www.glore.de) *[Nürnberg, Germany]*
++   [Nudie Jeans](https://www.nudiejeans.com) *[Gothenburg, Sweden]*
 
 
 ### Outdoorwear and equipment
@@ -30,14 +33,24 @@ resource.*
 +   [Pinqponq](https://www.pinqponq.com) *[Cologne, Germany]*
 
 
+### Bags, accessories and cases
+
++   [Feuerwear](https://www.feuerwear.com) *[Colone, Germany]*
+
+
 ### Groceries
 
 +   [Original Unverpackt](http://original-unverpackt.de) *[Berlin, Germany]*
-+   [Eco Brotbox](https://www.ecobrotbox.de) *[Berlin, Germany]*
 +   [Kumpel & Keule](https://www.kumpelundkeule.de) *[Berlin, Germany]*
 +   [Bäckerei Erbel](https://arnderbel.de) *[Dachsbach, Germany]*
 
 
+### Homeware
+
++   [Eco Brotbox](https://www.ecobrotbox.de) *[Berlin, Germany]*
++   [kivanta](https://www.kivanta.de/) *[Weilburg, Germany]*
+
+
 ### Furniture
 
-+   [Grün Erde](https://www.grueneerde.com) *[Scharnstein, Austria]*
++   [Grüne Erde](https://www.grueneerde.com) *[Scharnstein, Austria]*
