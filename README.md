@@ -13,7 +13,7 @@ also a significant smaller footprint compared to the shipment of an individual d
 ### Clothing
 
 +   [Manomama](https://www.manomama.de) *[Augsburg, Germany]*
-+   [Armedangels](https://www.armedangels.de) *[Colone, Germany]*
++   [Armedangels](https://www.armedangels.de) *[Cologne, Germany]*
 +   [Bleed Clothing](https://www.bleed-clothing.com) *[Helmbrechts, Germany]*
 +   [Avesu](https://www.avesu.eu) *[Berlin, Germany]*
 +   [Loveco](https://loveco-shop.de) *[Berlin, Germany]*
@@ -35,7 +35,7 @@ also a significant smaller footprint compared to the shipment of an individual d
 
 ### Bags, accessories and cases
 
-+   [Feuerwear](https://www.feuerwear.com) *[Colone, Germany]*
++   [Feuerwear](https://www.feuerwear.com) *[Cologne, Germany]*
 
 
 ### Groceries
