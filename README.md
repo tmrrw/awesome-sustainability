@@ -55,6 +55,7 @@ also a significant smaller footprint compared to the shipment of an individual d
 
 +   [Grüne Erde](https://www.grueneerde.com) *[Scharnstein, Austria]*
 
+
 ### Computer Hardware
 
 +   [Crowdsupply](https://www.crowdsupply.com) *[Portland, Oregon]*
