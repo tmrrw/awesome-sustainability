@@ -58,3 +58,7 @@ also a significant smaller footprint compared to the shipment of an individual d
 ### Computer Hardware
 
 +   [Crowdsupply](https://www.crowdsupply.com) *[Portland, Oregon]*
+
+### Kids
+
++   [Hug & Grow](https://www.hug-and-grow.de) *[Berlin, Germany]*
