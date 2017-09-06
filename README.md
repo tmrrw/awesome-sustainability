@@ -15,13 +15,19 @@ also a significant smaller footprint compared to the shipment of an individual d
 +   [Manomama](https://www.manomama.de) *[Augsburg, Germany]*
 +   [Armedangels](https://www.armedangels.de) *[Cologne, Germany]*
 +   [Bleed Clothing](https://www.bleed-clothing.com) *[Helmbrechts, Germany]*
-+   [Avesu](https://www.avesu.eu) *[Berlin, Germany]*
 +   [Loveco](https://loveco-shop.de) *[Berlin, Germany]*
 +   [Zündstoff](https://www.zuendstoff-clothing.de) *[Freiburg, Germany]*
 +   [Avocado Store](https://www.avocadostore.de) *[Hamburg, Germany]*
 +   [Mr & Mrs Green](https://www.mr-mrs-green.com) *[Hamburg, Germany]*
 +   [Glore](https://www.glore.de) *[Nürnberg, Germany]*
 +   [Nudie Jeans](https://www.nudiejeans.com) *[Gothenburg, Sweden]*
+
+
+### Shoes
+
++   [Avesu](https://www.avesu.eu) *[Berlin, Germany]*
++   [Ethletic](https://ethletic.com) *[Luebeck, Germany]*
++   [Think](https://www.thinkshoes.com) *[Kopfing, Germany]*
 
 
 ### Outdoorwear and equipment
@@ -36,6 +42,16 @@ also a significant smaller footprint compared to the shipment of an individual d
 ### Bags, accessories and cases
 
 +   [Feuerwear](https://www.feuerwear.com) *[Cologne, Germany]*
+
+
+### Sports
+
++   Yoga mats: [hejhej-mats](https://www.hejhej-mats.com) *[Schwangau, Germany]*
+
+
+### Kids
+
++   [Hug & Grow](https://www.hug-and-grow.de) *[Berlin, Germany]*
 
 
 ### Groceries
@@ -59,13 +75,3 @@ also a significant smaller footprint compared to the shipment of an individual d
 ### Computer Hardware
 
 +   [Crowdsupply](https://www.crowdsupply.com) *[Portland, Oregon]*
-
-
-### Kids
-
-+   [Hug & Grow](https://www.hug-and-grow.de) *[Berlin, Germany]*
-
-
-### Sports
-
-+   Yoga mats: [hejhej-mats](https://www.hejhej-mats.com) *[Schwangau, Germany]*
