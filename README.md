@@ -4,8 +4,8 @@ Awesome Sustainability
 A list of resources to embrace ecological, sustainable and ethical consumption.
 
 
-*NOTE: Please check local availability or shipping constraints when engaging with a linked resource. 
-Purchasing from a local dealer might not only fill up a fridge within your neighbourhood, but has 
+*NOTE: Please check local availability or shipping constraints when engaging with a linked resource.
+Purchasing from a local dealer might not only fill up a fridge within your neighbourhood, but has
 also a significant smaller footprint compared to the shipment of an individual delivery.*
 
 
@@ -62,3 +62,10 @@ also a significant smaller footprint compared to the shipment of an individual d
 ### Kids
 
 +   [Hug & Grow](https://www.hug-and-grow.de) *[Berlin, Germany]*
+
+
+### Cargobike
+
++   [Cargobike Darmstadt](http://cargobike-darmstadt.de) *[Darmstadt, Germany]*
++   [Rad3](https://rad3.de) *[Leipzig, Germany]*
++   [Larry vs. Harry](https://www.larryvsharry.com) *[Copenhagen, Denmark]*
