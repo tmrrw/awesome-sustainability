@@ -76,12 +76,14 @@ also a significant smaller footprint compared to the shipment of an individual d
 
 +   [Crowdsupply](https://www.crowdsupply.com) *[Portland, Oregon]*
 
-### Kids
 
-+   [Hug & Grow](https://www.hug-and-grow.de) *[Berlin, Germany]*
+### Bicycles
+ 
+#### Bike
 
++   [CHICHI](http://chichi.berlin) *[Berlin, Germany]*
 
-### Cargobike
+#### Cargobike
 
 +   [Cargobike Darmstadt](http://cargobike-darmstadt.de) *[Darmstadt, Germany]*
 +   [Rad3](https://rad3.de) *[Leipzig, Germany]*
