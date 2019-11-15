@@ -31,7 +31,6 @@ also a significant smaller footprint compared to the shipment of an individual d
 +   [Vivobarefoot](https://www.vivobarefoot.com) *[Wales, England]*
 
 
-
 ### Outdoorwear and equipment
 
 +   [Klettermusen](https://www.klattermusen.com) *[Åre, Sweden]*
