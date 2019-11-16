@@ -28,6 +28,7 @@ also a significant smaller footprint compared to the shipment of an individual d
 +   [Avesu](https://www.avesu.eu) *[Berlin, Germany]*
 +   [Ethletic](https://ethletic.com) *[Luebeck, Germany]*
 +   [Think](https://www.thinkshoes.com) *[Kopfing, Germany]*
++   [Vivobarefoot](https://www.vivobarefoot.com) *[Wales, England]*
 
 
 ### Outdoorwear and equipment
