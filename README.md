@@ -21,7 +21,6 @@ also a significant smaller footprint compared to the shipment of an individual d
 +   [Mr & Mrs Green](https://www.mr-mrs-green.com) *[Hamburg, Germany]*
 +   [Glore](https://www.glore.de) *[Nürnberg, Germany]*
 +   [Nudie Jeans](https://www.nudiejeans.com) *[Gothenburg, Sweden]*
-+   [Grundstoff](https://www.grundstoff.net) *[Dietzenbach, Germany]*
 
 
 ### Shoes
@@ -80,7 +79,7 @@ also a significant smaller footprint compared to the shipment of an individual d
 
 
 ### Bicycles
-
+ 
 #### Bike
 
 +   [CHICHI](http://chichi.berlin) *[Berlin, Germany]*
