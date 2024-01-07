@@ -90,3 +90,8 @@ also a significant smaller footprint compared to the shipment of an individual d
 +   [Cargobike Darmstadt](http://cargobike-darmstadt.de) *[Darmstadt, Germany]*
 +   [Rad3](https://rad3.de) *[Leipzig, Germany]*
 +   [Larry vs. Harry](https://www.larryvsharry.com) *[Copenhagen, Denmark]*
+
+### APIs and Information
++   [DitchCarbon API](https://docs.ditchcarbon.com/) *[England]*
++   [Companies taking action](https://ditchcarbon.com/free-sbti-api-access/) *[England]*
+
